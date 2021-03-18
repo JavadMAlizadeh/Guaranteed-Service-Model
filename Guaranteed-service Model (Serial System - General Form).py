@@ -1,4 +1,8 @@
 
+#Multi-echelon Inventory Systems
+#Guaranteed-service Model
+#Serial System
+
 import gurobipy as gp
 from gurobipy import GRB
 import math
